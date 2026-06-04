@@ -40,6 +40,8 @@ RAG/
 |    └── Chapter 3 - Deadlock.pdf
 ├── notebook
 |    └── RAG_assistant.ipynb
+├── screenshots
+|    └── RAG_diagram.png
 ├── .gitignore
 ├── requirements.txt
 └── README.md
