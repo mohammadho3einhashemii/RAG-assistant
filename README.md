@@ -1,3 +1,12 @@
+<p align="center">
+  <img
+    width="600"
+    height="600"
+    alt="1780564268106"
+    src="https://github.com/user-attachments/assets/241268de-b93a-4262-b576-6b73314dfde7"
+  />
+</p>
+
 # RAG assistant
 Large Language Models have limited knowledge of domain-specific documents and may generate hallucinations.
 This project demonstrates how Retrieval-Augmented Generation (RAG) can generate responses from external knowledge sources.
